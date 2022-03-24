@@ -1,5 +1,5 @@
 Hi!
-I'm Spencer Birch, welcome to my GitHub page. I work in IT and mess around with code on the side. 
+I'm Spencer, welcome to my GitHub page. I work in IT and mess around with code on the side. 
 Feel free to take a look!
 
 
