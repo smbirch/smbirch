@@ -1,6 +1,5 @@
 Hi!
-I'm Spencer, welcome to my GitHub page. I work in IT and mess around with code on the side. 
-Feel free to take a look!
+I'm Spencer, welcome to my GitHub page. I work in IT and am interested in development.
 
 
 You can find me at https://www.linkedin.com/in/spencermbirch/
