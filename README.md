@@ -1,5 +1,5 @@
 Hi!
-I'm Spencer, welcome to my GitHub page. I work in IT and am interested in development.
+I'm Spencer, welcome to my GitHub page. I work in IT and like coding.
 
 
 You can find me at https://www.linkedin.com/in/spencermbirch/
